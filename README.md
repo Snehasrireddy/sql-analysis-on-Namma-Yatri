@@ -1,13 +1,9 @@
 ## sql-analysis-on-Namma-Yatri
-## Project Name : Namma Yatri
-
 I conducted a comprehensive case study on a dataset that contained information about all details of the Namma Yatri.
 The Dataset includes five main tables : trips,payment,duration,loc,trips_details4.
 
 ## Dataset Information
-
 ## Dataset Source : https://docs.google.com/spreadsheets/d/1CyKysHxqhGxdL7OqDm4o6IafJjYrpeO0/edit#gid=743382806
-
 ## Dataset Overview:
 
 trips: Gives all details about the trips.
