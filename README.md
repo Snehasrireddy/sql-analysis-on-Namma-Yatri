@@ -1,14 +1,14 @@
-# sql-analysis-on-Namma-Yatri
-# Project Name : Namma Yatri
+## sql-analysis-on-Namma-Yatri
+## Project Name : Namma Yatri
 
 I conducted a comprehensive case study on a dataset that contained information about all details of the Namma Yatri.
 The Dataset includes five main tables : trips,payment,duration,loc,trips_details4.
 
-# Dataset Information
+## Dataset Information
 
-# Dataset Source : https://docs.google.com/spreadsheets/d/1CyKysHxqhGxdL7OqDm4o6IafJjYrpeO0/edit#gid=743382806
+## Dataset Source : https://docs.google.com/spreadsheets/d/1CyKysHxqhGxdL7OqDm4o6IafJjYrpeO0/edit#gid=743382806
 
-# Dataset Overview:
+## Dataset Overview:
 
 trips: Gives all details about the trips.
 
@@ -21,7 +21,7 @@ loc: Gives information about what are the locations present
 trips_details4: It is the combination of the 3 different trips_details.
 
 
-# 20 Questions Explored
+## 20 Questions Explored
 
 1.How can I retrieve the total number of trips?
 
